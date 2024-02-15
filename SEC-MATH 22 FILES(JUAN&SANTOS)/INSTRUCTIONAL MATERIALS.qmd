@@ -1,6 +1,10 @@
 ---
 title: "GRADE 9 GEOMETRY"
-author: "JUAN, MARY GRACE C. AND SANTOS, MARK CHRISTAN J."
+author: 
+  - Mary Grace C. Juan
+  - Mark Christan J. Santos
+date: 02/15/2024
+date-modified: today
 format: html
 editor: visual
 ---
