@@ -9,4 +9,18 @@ format: html
 editor: visual
 ---
 
-# **QUADRILATERALS**
+# Grade 9 Geometry (Third Quarter)
+
+## Lesson 1: Proportion
+
+### What I Need to Know
+
+At the end of this lesson, you are expected to:
+
+a\. describe a proportion; and
+
+b\. apply the fundamental theorems of proportionality to solve problems involving proportions.
+
+### What's New
+
+Proportion refers to the two ratios that are equal. That is, for the proportion, $a:b=c:d$, $a \cdot d = b \cdot c$ or . In other words, the product of the means is equal to the product of the extremes.
