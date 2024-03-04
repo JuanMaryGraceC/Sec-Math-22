@@ -8,48 +8,48 @@ date-modified: today
 editor: visual
 ---
 
-# Right Triangle Similarity 
-Theorems 
+# Right Triangle Similarity
 
-## Right Triangle Similarity 
 Theorems
+
+## Right Triangle Similarity Theorems
 
 Two triangles are similar if their corresponding angles are congruent. In effect, the corresponding sides of similar triangles are proportional. So far, you have learned three triangle similarity theorems: AA similarity postulate, SSS and SAS similarity theorems.
 
-### What’s In 
+### What’s In
 
-![](Screenshot 2024-03-04 105654.png)
+![](Screenshot%202024-03-04%20105654.png)
 
-![](Screenshot 2024-03-04 105708.png)
+![](Screenshot%202024-03-04%20105708.png)
 
 #### What’s New
 
-![](Screenshot 2024-03-04 105946.png){fig-align="center"}
+![](Screenshot%202024-03-04%20105946.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110002.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110002.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110027.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110027.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110039.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110039.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110055.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110055.png){fig-align="center"}
 
 ##### What is It
 
-![](Screenshot 2024-03-04 110547.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110547.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110604.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110604.png){fig-align="center"}
 
 ###### What’s More
 
-![](Screenshot 2024-03-04 110821.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110821.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110835.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110835.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110902.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110902.png){fig-align="center"}
 
-![](Screenshot 2024-03-04 110919.png){fig-align="center"}
+![](Screenshot%202024-03-04%20110919.png){fig-align="center"}
 
-##### What I Have Learned 
+##### What I Have Learned
 
-##### ![](Screenshot 2024-03-04 111347.png)
+##### ![](Screenshot%202024-03-04%20111347.png)
