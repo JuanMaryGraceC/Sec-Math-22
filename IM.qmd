@@ -1,13 +1,11 @@
 ---
 title: "Proving Pythagorean Theorem"
 author: "Mary Grace Juan and Mark Christan Santos"
-format: html
+format: pptx
 editor: visual
 date: May 26, 2024
 date-modified: today
 ---
-
-# Proving Pythagorean Theorem
 
 ## The Pythagorean Theorem
 
