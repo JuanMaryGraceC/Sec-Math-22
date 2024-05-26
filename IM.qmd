@@ -1,55 +1,60 @@
 ---
-title: "Right Triangle Similarity Theorems"
-author: "Mary Grace Juan 
-  Mark Christan Santos"
+title: "IM"
+author: "Mary Grace Juan and Mark Christan Santos"
 format: html
-date: 03/04/2024
-date-modified: today
 editor: visual
+date: May 26, 2024
+date-modified: today
 ---
 
-# Right Triangle Similarity
+# Proving Pythagorean Theorem
 
-Theorems
+## The Pythagorean Theorem
 
-## Right Triangle Similarity Theorems
+The Pythagorean Theorem is one of the earliest theorems known to ancient civilizations. This famous theorem is named after the Greek mathematician and philosopher, Pythagoras.
 
-Two triangles are similar if their corresponding angles are congruent. In effect, the corresponding sides of similar triangles are proportional. So far, you have learned three triangle similarity theorems: AA similarity postulate, SSS and SAS similarity theorems.
+## THE PYTHAGOREAN THEOREM
 
-### What’s In
+The Pythagorean Theorem is a statement about right triangles. The Pythagorean Theorem states that: “The area of the square built upon the hypotenuse of a right triangle is equal to the sum of the areas of the squares upon the remaining sides.”
 
-![](Screenshot%202024-03-04%20105654.png)
+## Proving Pythagorean Theorem by Right Triangle Similarity Theorem
 
-![](Screenshot%202024-03-04%20105708.png)
+![](Screenshot%202024-05-26%20220306.png){fig-align="center" width="432"}
 
-#### What’s New
+![](Screenshot%202024-05-26%20220445.png){fig-align="center"}
 
-![](Screenshot%202024-03-04%20105946.png){fig-align="center"}
+## EXAMPLES OF THE PYTHAGOREAN THEOREM
 
-![](Screenshot%202024-03-04%20110002.png){fig-align="center"}
+![](Screenshot%202024-05-26%20220638.png){fig-align="center"}
 
-![](Screenshot%202024-03-04%20110027.png){fig-align="center"}
+## Finding The Length Of A Side Of A Right Triangle Using Pythagorean Theorem
 
-![](Screenshot%202024-03-04%20110039.png){fig-align="center"}
+![](Screenshot%202024-05-26%20220711.png){fig-align="center"}
 
-![](Screenshot%202024-03-04%20110055.png){fig-align="center"}
+![](Screenshot%202024-05-26%20221020.png){fig-align="center"}
 
-##### What is It
+![](Screenshot%202024-05-26%20221044.png){fig-align="center"}
 
-![](Screenshot%202024-03-04%20110547.png){fig-align="center"}
+## What Have I Learned?
 
-![](Screenshot%202024-03-04%20110604.png){fig-align="center"}
+![](Screenshot%202024-05-26%20221828.png){fig-align="center"}
 
-###### What’s More
+## Activities
 
-![](Screenshot%202024-03-04%20110821.png){fig-align="center"}
+**Activity 1**
 
-![](Screenshot%202024-03-04%20110835.png){fig-align="center"}
+Directions: Use the Pythagorean Theorem to find the unknown side of the given right triangle if the lengths of its two sides are given.
 
-![](Screenshot%202024-03-04%20110902.png){fig-align="center"}
+![](Screenshot%202024-05-26%20221617.png){fig-align="center"}
 
-![](Screenshot%202024-03-04%20110919.png){fig-align="center"}
+**Activity 2**
 
-##### What I Have Learned
+![](Screenshot%202024-05-26%20222142.png){fig-align="center"}
 
-##### ![](Screenshot%202024-03-04%20111347.png)
+![](Screenshot%202024-05-26%20222210.png){fig-align="center"}
+
+## Additional Activities
+
+Directions: Consider the given situation and answer the questions that follow. Use your knowledge of the Pythagorean Theorem. The heights of the two buildings are 41 m and 32 m and they are 12 m apart. A man went to the rooftop of the shorter building and wondered looking at the roof top of the taller building.
+
+![](Screenshot%202024-05-26%20222540.png){fig-align="center"}
