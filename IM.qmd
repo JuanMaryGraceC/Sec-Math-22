@@ -1,5 +1,5 @@
 ---
-title: "IM"
+title: "Proving Pythagorean Theorem"
 author: "Mary Grace Juan and Mark Christan Santos"
 format: html
 editor: visual
